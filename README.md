@@ -5,7 +5,7 @@ Este repositorio publica únicamente instaladores de desarrollo, checksums y avi
 - [Descargar e instalar](https://fluxdrop-ruby.vercel.app/descarga/)
 - [Formatos y límites reales](https://fluxdrop-ruby.vercel.app/formatos/)
 - [Privacidad y licencias](https://fluxdrop-ruby.vercel.app/licencias/)
-- [Fuentes de motores de macOS](https://fluxdrop-ruby.vercel.app/downloads/FluxDrop-0.3.0-engine-sources.zip)
+- [Fuentes de motores de macOS](https://fluxdrop-ruby.vercel.app/downloads/FluxDrop-engine-sources-0.3.0.zip)
 - [Fuentes de motores de Windows](https://fluxdrop-ruby.vercel.app/windows/)
 
 PKG macOS sin firma Developer ID Installer ni notarización; app con firma ad hoc. MSI Windows sin firma Authenticode. No se presentan como versiones estables. Consulta las notas y comprueba el SHA-256 de cada archivo.
